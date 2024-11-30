@@ -3,3 +3,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,next,react,redux,nodejs,express,mysql,prisma,php,git,postman,figma,vscode&perline=9&theme=dark" />
   </a>
 </p>
+
+
+
+<script > console.log("hi")</script>
